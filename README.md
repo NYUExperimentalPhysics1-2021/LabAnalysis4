@@ -3,7 +3,7 @@
 
 note on due date - You should be able to get this in by Wednesday at 5 PM and not have any work (from me) over Thanksgiving. You also shouldn't count on any help from the TAs or from me over the Thanksgiving Holiday. But... we won't start grading this until Monday Nov 29. So you do have the option of working on this over the weekend if you want. 
 
-To accept this assignment: https://classroom.github.com/a/k5KaQA7r
+To accept this assignment: https://classroom.github.com/a/gG6GvvEo
 
 
 This read me is adapted from [Jeremey Manning's Psych 32 Assignment Hello, World!](github.com/ContextLab/psyc32-hello-world/)
@@ -20,4 +20,4 @@ When you did assignment 0, you should have given Colaboratory access to your pri
 - Make sure the "Include Private Repos" checkbox is checked
 - In the popup window, sign into your GitHub account and authorize Colab to read private files
 
-You should do your work on the assignment in the *copied* notebook (i.e., the copied notebook that you have the ability to save and edit).  Submitting the assignment entails syncing your copy of the notebook with your GitHub repository (in this case, `NYUExperimentalPhysics1-2021/labanalysis3-<username>`, with `<username>` replaced with your GitHub username).  From within Colaboratory, open your notebook and click File > Save a copy in GitHub.  Select `NYUExperimentalPhysics1-2021/labanalysis4-<username>` from the Repository drop-down menu, and type '`LabAnalysis4.ipynb`' into the File path text box.  Optionally, you may also enter a description into the "Commit message" text box (or you can just leave the default message).  Make sure that the "Include a link to Colaboratory" box is checked, and press "OK".  A new tab or window should open up, displaying your submitted notebook from within your GitHub repository.
+You should do your work on the assignment in the *copied* notebook (i.e., the copied notebook that you have the ability to save and edit).  Submitting the assignment entails syncing your copy of the notebook with your GitHub repository (in this case, `NYUExperimentalPhysics1-2021/labanalysis4-<username>`, with `<username>` replaced with your GitHub username).  From within Colaboratory, open your notebook and click File > Save a copy in GitHub.  Select `NYUExperimentalPhysics1-2021/labanalysis4-<username>` from the Repository drop-down menu, and type '`LabAnalysis4.ipynb`' into the File path text box.  Optionally, you may also enter a description into the "Commit message" text box (or you can just leave the default message).  Make sure that the "Include a link to Colaboratory" box is checked, and press "OK".  A new tab or window should open up, displaying your submitted notebook from within your GitHub repository.
